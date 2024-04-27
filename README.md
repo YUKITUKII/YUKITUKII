@@ -1,4 +1,4 @@
-Hi, I'm YUKITUKII. For the Fmoment, I dedicate myself on open-source project traduction.
+Hi, I'm YUKITUKII. Currently, I dedicate myself on open-source project traduction.
 Spoken languages : En, Es, Fr
 
 <!---
